@@ -37,7 +37,7 @@ I’m actively working on this project! Planned add-ons include:
 ## 📸 Preview
 
 *(Sample screenshot of current build — update as project grows)*
-<img width="1912" height="860" alt="Screenshot 2025-09-01 211122" src="https://github.com/user-attachments/assets/d47b8f18-1650-4a7d-8ee0-d3e2bb3b974a" />
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/7c561c77-2506-43d8-b175-4dda4451da64" />
 
 
 ---
